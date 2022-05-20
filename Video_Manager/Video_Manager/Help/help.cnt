@@ -1,0 +1,10 @@
+:Base help.hlp
+:Title programa1
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 Menu=SHM_contents0001@help.hlp
+1 Cadastro
+2 cadastro de cliente=SHM_contents0002@help.hlp
+1 Consulta
+1 Relatório
+1 Processo

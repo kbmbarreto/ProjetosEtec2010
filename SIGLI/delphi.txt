@@ -1,0 +1,8 @@
+standby
+SendMessage(Handle,WM_SYSCOMMAND, SC_MONITORPOWER, 1);0
+
+desligar pc
+winexec('shutdown -r -f -t 00',sw_hide);
+
+reiniciar pc
+winexec('shutdown -s -f -t 00',sw_hide)
