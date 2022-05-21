@@ -21,19 +21,36 @@ esperamos ter um aumento significativo no rendimento de aulas de forma mais din�
 organizada, intuitiva e ágil.E o sistema gerenciador de laboratório pode ser utilizado eficientemente em qualquer laboratório de informática, que possua uma rede de comunicação.
 <br>
 <br>
+
+
 ## Ferramentas utilizadas
 <br>
+
 - Linguagem Pascal
+<br>
 - Borland Delphi 7
+<br>
 - Scripts .bat para controle remoto dos dispositivos
+<br>
 - VCL Skin
+<br>
 - SQL Server 2005
 <br>
+
 ## Informações importantes
+<br>
+
 O projeto foi desenvolvido e homologado para funcionar no sistema operacional Windows XP Professional, não funcionando em suas versões inferiores e superiores (como a família Windows 9x e Windows Vista com seus devidos sucessores). Na época, o Windows XP era o sistema operacional mais utilizado no mundo, sendo que o Windows Vista ainda era uma novidade, além de ser extremamente pesado para os computadores disponíveis nas escolas estaduais na época.
 <br>
+
 ## Informações úteis caso queira rodar o projeto em seu computador nostálgico (ou máquina virtual):
 <br>
+
 - [Configurar conexão ADO com SQL Server no Delphi 7](http://www.activedelphi.com.br/forum/viewtopic.php?t=62632&sid=ee1a01b7b06276b4537c7a54b7d0d723)
+<br>
+
 - [Configurar VCL Skin no Delphi](https://www.devmedia.com.br/colocando-skins-com-o-vclskin/281)
+<br>
+
 - [Anuário estadual da Feira Tecnológica do Centro Paula Souza no Estado de São Paulo, consulte a página 187, o sistema estará lá](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/9/2015/03/anais2010-1.pdf)
+<br>
