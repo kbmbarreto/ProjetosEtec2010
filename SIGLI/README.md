@@ -4,20 +4,15 @@
 
 ## Resumo do sistema
 
-Na maioria dos laboratórios estudantis existem vários problemas que são causados pela 
-falta de um sistema para gerenciar os respectivos componentes fiscos e lógicos. Vendo essas 
-necessidades resolvemos criar um sistema que possa organizar e melhorar o laboratório de 
-informática. O software funcionará com sistema de login para gerenciar o acesso de quem 
-utiliza os computadores e organizar os aplicativos, de forma que apenas o material necessário 
-para a aula seja utilizado, tirando assim todo o conteúdo desnecessário para as aulas. O sistema terá uma ferramenta para auxiliar o compartilhamento de informações dos professores 
-com os alunos de forma intuitiva e pratica, muitas vezes alunos acabam perdendo informações importantes por não ter um local seguro e organizado dentro do laboratório. Observando 
-essa necessidade de implementar um sistema de gerenciamento de diretório onde cada aluno 
-terá seu diretório e o mesmo só será acessado quando o aluno se logar no sistema, também 
-irá conter um sistema de suporte remoto onde o professor poderá fazer suporte para os 
-alunos de uma forma mais rápida e sem ficar se locomovendo a cada computador , essas e 
-outras ferramentas que irão facilitar o controle e o gerenciamento do laboratório. Com isso 
-esperamos ter um aumento significativo no rendimento de aulas de forma mais dinâmica, 
-organizada, intuitiva e ágil.E o sistema gerenciador de laboratório pode ser utilizado eficientemente em qualquer laboratório de informática, que possua uma rede de comunicação.
+Na maioria dos laboratórios estudantis existem vários problemas que são causados pela falta de um sistema para gerenciar os respectivos componentes fiscos e lógicos. Vendo essas necessidades resolvemos criar um sistema que possa organizar e melhorar o laboratório de informática. 
+
+O software funcionará com sistema de login para gerenciar o acesso de quem utiliza os computadores e organizar os aplicativos, de forma que apenas o material necessário para a aula seja utilizado, tirando assim todo o conteúdo desnecessário para as aulas. 
+
+O sistema terá uma ferramenta para auxiliar o compartilhamento de informações dos professores com os alunos de forma intuitiva e pratica, muitas vezes alunos acabam perdendo informações importantes por não ter um local seguro e organizado dentro do laboratório. 
+
+Observando essa necessidade de implementar um sistema de gerenciamento de diretório onde cada aluno terá seu diretório e o mesmo só será acessado quando o aluno se logar no sistema, também irá conter um sistema de suporte remoto onde o professor poderá fazer suporte para os alunos de uma forma mais rápida e sem ficar se locomovendo a cada computador , essas e outras ferramentas que irão facilitar o controle e o gerenciamento do laboratório. 
+
+Com isso esperamos ter um aumento significativo no rendimento de aulas de forma mais dinâmica, organizada, intuitiva e ágil. E o sistema gerenciador de laboratório pode ser utilizado eficientemente em qualquer laboratório de informática, desde que possua uma rede de comunicação.
 
 ## Ferramentas utilizadas
 
