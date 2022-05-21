@@ -25,15 +25,12 @@ organizada, intuitiva e ágil.E o sistema gerenciador de laboratório pode ser u
 <br>
 
 - Linguagem Pascal
-<br>
 - Borland Delphi 7
-<br>
 - Scripts .bat para controle remoto dos dispositivos
-<br>
 - VCL Skin
-<br>
 - SQL Server 2005
 <br>
+
 ## Informações importantes
 <br>
 
