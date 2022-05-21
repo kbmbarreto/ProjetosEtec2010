@@ -20,8 +20,6 @@ outras ferramentas que irão facilitar o controle e o gerenciamento do laborató
 esperamos ter um aumento significativo no rendimento de aulas de forma mais dinâmica, 
 organizada, intuitiva e ágil.E o sistema gerenciador de laboratório pode ser utilizado eficientemente em qualquer laboratório de informática, que possua uma rede de comunicação.
 <br>
-<br>
-
 
 ## Ferramentas utilizadas
 <br>
@@ -36,7 +34,6 @@ organizada, intuitiva e ágil.E o sistema gerenciador de laboratório pode ser u
 <br>
 - SQL Server 2005
 <br>
-
 ## Informações importantes
 <br>
 
