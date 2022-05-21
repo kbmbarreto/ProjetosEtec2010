@@ -29,10 +29,7 @@ O projeto foi desenvolvido e homologado para funcionar no sistema operacional Wi
 ## Informações úteis caso queira rodar o projeto em seu computador nostálgico (ou máquina virtual):
 
 - [Configurar conexão ADO com SQL Server no Delphi 7](http://www.activedelphi.com.br/forum/viewtopic.php?t=62632&sid=ee1a01b7b06276b4537c7a54b7d0d723)
-<br>
 
 - [Configurar VCL Skin no Delphi](https://www.devmedia.com.br/colocando-skins-com-o-vclskin/281)
-<br>
 
 - [Anuário estadual da Feira Tecnológica do Centro Paula Souza no Estado de São Paulo, consulte a página 187, o sistema estará lá](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/9/2015/03/anais2010-1.pdf)
-<br>
