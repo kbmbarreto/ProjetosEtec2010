@@ -1,9 +1,0 @@
-Inserir => insert
-Editar => Edit
-Excluir=> Delete
-Cancelar => Cancel
-Salvar => Post
-
-
-Data change = Qlqr coisa q mudou no banco\tabela vai dispara o evento.
-
